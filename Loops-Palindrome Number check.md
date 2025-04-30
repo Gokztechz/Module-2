@@ -1,4 +1,4 @@
-## Loops in Python: Palindrome Number Checker
+# Loops in Python: Palindrome Number Checker
 ## NAME: GOKUL SHARAN R
 ## REG NO: 212223040052
 ## 🎯 Aim
